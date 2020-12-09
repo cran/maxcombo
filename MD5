@@ -1,0 +1,10 @@
+f61d141e276dcc7a3bb3df61c1b51989 *DESCRIPTION
+6663a91dbcb0ae742253700ab25f2b87 *NAMESPACE
+e966a2efff382fe06da06e6c0703ca9a *R/maxcombofunctions-exampledocumentation.R
+821937de18a0cbf53f79377d67cc873f *R/maxcombofunctions.R
+5c8df03e7f4ae2b27fcdc1e5eb5ed211 *R/packagesetupandimportsandexamples.R
+498277fbde5d002e617dc9c02a2c9d2a *man/maxcombo-package.Rd
+328a4a41c06095fba4a9ce40efcf7418 *man/oogetdoublemaxcombocutoff.Rd
+229d4abf97643cb4a92e927e1b0edf01 *man/oogetdoublemaxcombocutoffgroupsequential.Rd
+2c8f3345069072728f953d8c2e8c1488 *man/oogetdoublemaxcombotestpvalue.Rd
+7cf3b81b45d2c01001bc062b5807e3a9 *man/oogetdoublemaxcomboteststatistic.Rd
